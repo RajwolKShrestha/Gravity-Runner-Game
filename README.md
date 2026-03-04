@@ -30,3 +30,14 @@ A playable build is available in the
    - Download the latest .zip file (e.g., Gravity Runner v1.0.zip).
    - Extract the contents.
    - Run Gravity Run.exe.
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/Screenshot 2026-02-23 164358.png)
+
+### Gameplay — Gravity Flip
+![Gameplay](screenshots/Screenshot 2026-02-23 164445.png)
+![Gameplay](screenshots/Screenshot 2026-02-23 164421.png)
+
+### Game Over UI
+![Scoreboard](screenshots/Screenshot 2026-02-23 164529.png)
