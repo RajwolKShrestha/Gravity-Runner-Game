@@ -33,11 +33,11 @@ A playable build is available in the
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/Screenshot 2026-02-23 164358.png)
+![Main Menu](Screenshots/Screenshot 2026-02-23 164358.png)
 
 ### Gameplay — Gravity Flip
-![Gameplay](screenshots/Screenshot 2026-02-23 164445.png)
-![Gameplay](screenshots/Screenshot 2026-02-23 164421.png)
+![Gameplay](Screenshots/Screenshot 2026-02-23 164445.png)<br>
+![Gameplay](Screenshots/Screenshot 2026-02-23 164421.png)
 
 ### Game Over UI
-![Scoreboard](screenshots/Screenshot 2026-02-23 164529.png)
+![Scoreboard](Screenshots/Screenshot 2026-02-23 164529.png)
