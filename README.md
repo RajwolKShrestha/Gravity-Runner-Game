@@ -29,4 +29,4 @@ A playable build is available in the
 - Windows:
    - Download the latest .zip file (e.g., Gravity Runner v1.0.zip).
    - Extract the contents.
-   - Run GravityRunner.exe.
+   - Run Gravity Run.exe.
